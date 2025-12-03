@@ -74,6 +74,7 @@ $ns run
 
 
 
+<img width="899" height="475" alt="image" src="https://github.com/user-attachments/assets/8f1d0148-784c-4ae4-82fa-06e0f0ef178c" />
 
 
 
